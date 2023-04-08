@@ -1,4 +1,4 @@
-# Loan Portfolio Quality Prediction Model ( Project completed on October 2020 )
+# Loan Portfolio Quality Prediction Model (2020)
 
 I developed a machine learning model that accurately predicts loan portfolio quality for a non-banking financial company (NBFC), resulting in a significant reduction in losses. I designed and executed deep data diving initiatives to examine relationships between variables, identifying key factors that impact loan portfolio quality. Using this information, I developed a machine learning model that accurately predicts portfolio quality based on a range of variables.
 
